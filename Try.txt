@@ -1,0 +1,1 @@
+{body: 'Hello this is sample text file for the Horoscope'}
